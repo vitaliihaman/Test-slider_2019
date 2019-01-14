@@ -30,7 +30,5 @@ function next() {
     renderImg(src);
 }
 
-console.log("test");
-console.log("test");
 renderImg(src);
 
